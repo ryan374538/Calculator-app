@@ -13,9 +13,9 @@ body{
     margin-top: 3.5vh;
     width: 100%;
     max-width: 350px;
+    height: 525px;
     background-color: rgb(29, 29, 30);
     border-radius: 20px;
-    aspect-ratio: 1/1.5;
     padding: 10px;
 }
 .ans{
