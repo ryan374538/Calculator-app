@@ -56,3 +56,9 @@ button{
 .primary{
     background-color: tomato;
 }
+button:hover{
+    background-color: rgb(26, 26, 26);
+}
+.primary:hover{
+    background-color: rgb(255, 66, 33);
+}
